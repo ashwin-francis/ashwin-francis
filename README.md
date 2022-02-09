@@ -1,5 +1,6 @@
-### 👋 Hi | Hello | Hallo
+### 👋 Hi Hello 
 ---
+
 <!--
 **ashwin-francis/ashwin-francis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
