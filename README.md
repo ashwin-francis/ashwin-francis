@@ -1,6 +1,8 @@
-![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)
-# 👋**Hey! I am Ashwin Francis**
---
+# :man_technologist: :sunny: **Hi! I am Ashwin Francis**
+### :cloud: engineer - Integrate, Deploy & Support
+
+### Technologies I work with
+<img src="https://user-images.githubusercontent.com/14816505/153565911-40ccfc97-535b-4dc9-bd38-497092f871e1.svg" width="50" height="50"> <img src="https://user-images.githubusercontent.com/14816505/153565914-45baf49a-d3dc-47a2-8f91-f2f8aa2c0ca0.svg" width="50" height="50"> <img src="https://user-images.githubusercontent.com/14816505/153565916-1015db5e-8224-405a-b70c-aca8323f5a48.svg" width="50" height="50"> <img src="https://user-images.githubusercontent.com/14816505/153565937-1c57bc8c-16a9-4de5-a341-7e36cc39356b.svg" width="50" height="50"> <img src="https://user-images.githubusercontent.com/14816505/153565941-de54fdaf-928f-4da4-95f8-a25d50e03d26.svg" width="50" height="50"> <img src="https://user-images.githubusercontent.com/14816505/153565927-e213a25f-d3e2-4524-964e-40ad67e00192.svg" width="50" height="50"> <img src="https://user-images.githubusercontent.com/14816505/153565942-1336ba49-6e93-4fcc-87ca-422170e9278d.svg" width="50" height="50"> <img src="https://user-images.githubusercontent.com/14816505/153565924-79119418-5879-414d-9fd5-aec159fd05d0.svg" width="50" height="50"> <img src="https://user-images.githubusercontent.com/14816505/153565907-a9f13824-9772-41d0-9ebb-b0cb86804c92.svg" width="50" height="50"> <img src="https://user-images.githubusercontent.com/14816505/153565933-de98a86e-e82c-44cd-94c9-bd52f7d8fd8d.svg" width="50" height="50"> <img src="https://user-images.githubusercontent.com/14816505/153565934-ffff881a-b63f-4252-9c72-dbc00a9cf8e4.svg" width="50" height="50">
 
 <!--
 **ashwin-francis/ashwin-francis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
