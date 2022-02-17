@@ -23,6 +23,7 @@
 </p>
 &nbsp;
 
+- 🔭 I’m currently working on ... Video Streaming Services
 - 🌱 I’m currently learning ... DevOps (App Deployment & IaC)
 - 🤔 I’m looking for help with ... Cloud Technologies
 - 💬 Ask me about ...Anything
@@ -32,9 +33,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... 
+
 - 👯 I’m looking to collaborate on ... 
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...He/Him
