@@ -24,7 +24,7 @@
 &nbsp;
 
 - 🔭 I’m currently working on ... Video Streaming Services
-- 🌱 I’m currently learning ... DevOps (App Deployment & IaC)
+- 🌱 I’m currently learning ... DevOps (Kubernetes, Service Deployment & IaC)
 - 🤔 I’m looking for help with ... Cloud Technologies
 - 💬 Ask me about ...Anything
 - 😄 Pronouns: ...He/Him
