@@ -1,4 +1,4 @@
-## :man_technologist: :sunny: **Hi! I am Ashwin Francis**
+## :man_technologist: :sunny: **Hi!**
 <p align="center">
   <img src="https://user-images.githubusercontent.com/14816505/153577797-9237bf1b-e22b-4cb5-8076-d37a6e5b7d7b.JPG" width="550" height="300">
 </p>
