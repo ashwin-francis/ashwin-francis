@@ -23,11 +23,10 @@
 </p>
 &nbsp;
 
-- 🔭 I’m currently working on ... Video Streaming Services
+- 🔭 I’m currently working on ... Cloud based video delivery services
 - 🌱 I’m currently learning ... DevOps (Kubernetes, Service Deployment & IaC)
 - 🤔 I’m looking for help with ... Cloud Technologies
-- 💬 Ask me about ...Anything
-- 😄 Pronouns: ...He/Him
+- 💬 Ask me about ...DevOps
 <!--
 **ashwin-francis/ashwin-francis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
